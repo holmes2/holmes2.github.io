@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+This is personal blog about some of the Software Engineering learnings which I have on a day to day basis. This might sometime also be turning a place for my opinions.
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
